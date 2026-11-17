@@ -1,0 +1,9 @@
+{
+  "name": "MPGI ERP PORTAL",
+  "short_name": "MPGI ERP",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f7f5",
+  "theme_color": "#176b58",
+  "description": "Smart college management portal for MPGI."
+}
